@@ -20,9 +20,8 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| **Cardio Agent** | AI agent project for the cardiology domain <!-- TODO: one sentence on what it does --> | Python, LLM <!-- TODO --> |
+| **Cardio AgentOps** | AI agent project for the cardiology domain <!-- TODO: one sentence on what it does --> | Python, LLM <!-- TODO --> |
 | **Savvily** | Personal finance assistant: spending tracking (manual + CSV import), savings goals, product wishlist, next-month spending prediction and an AI financial coach with a privacy layer | Angular, Redis, Gemini, FinGPT (QLoRA) |
-| **TuniEye** | AI-powered smart museum companion for Tunisian heritage: computer vision, multimodal AI, RAG guide and historical image reconstruction | Computer Vision, RAG <!-- TODO --> |
 
 <!-- TODO: link each project name to its repo, e.g. [**Savvily**](https://github.com/safanasri002/savvily) -->
 
@@ -46,25 +45,14 @@
 
 ![Tools](https://skillicons.dev/icons?i=git,docker,linux,latex,vscode)
 
-## GitHub Stats
 
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=safanasri002&show_icons=true&hide_border=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=safanasri002&layout=compact&hide_border=true&theme=tokyonight)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=safanasri002&theme=tokyo-night&hide_border=true)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=safanasri002&row=1&theme=tokyonight&no-frame=true)
-
-</div>
 
 ## Connect with Me
 
 <!-- TODO: replace the links below with your own -->
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/safa-nasri)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:safanasri2003@gmail.com)
 
 <div align="center">
 
