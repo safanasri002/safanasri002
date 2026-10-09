@@ -1,15 +1,3 @@
-<div align="center">
-
-![Banner](https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&text=Safa%20Nasri&fontSize=48&fontAlignY=35&desc=AI%20%26%20Software%20Engineering%20Student&descAlignY=58)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning+Engineering+Student;LLM+Agents+%E2%80%A2+RAG+%E2%80%A2+Guardrails;CTF+Player+%26+Hackathon+Enthusiast)](https://git.io/typing-svg)
-
-![Profile Views](https://komarev.com/ghpvc/?username=safanasri002&color=blueviolet&style=flat-square)
-![Followers](https://img.shields.io/github/followers/safanasri002?style=flat-square&color=blue)
-![Stars](https://img.shields.io/github/stars/safanasri002?style=flat-square&color=yellow)
-
-</div>
-
 ## About Me
 
 - Computer engineering student at the **National Higher School of Engineering of Tunis (ENSIT)**, pursuing a research master's in parallel
