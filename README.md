@@ -1,6 +1,8 @@
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=FF6EC4&center=true&vCenter=true&width=650&lines=AI+Engineering+Student+%F0%9F%A4%96;Turning+coffee+into+LLM+agents+%E2%98%95;My+model+works...+on+my+machine+%F0%9F%98%85;RAG+%E2%80%A2+Fine-tuning+%E2%80%A2+Agents)](https://git.io/typing-svg)
+ 
+</div>
 ## About Me
-
+ 
 ```python
 class Safa:
     school   = "ENSIT (National Higher School of Engineering of Tunis)"
@@ -8,11 +10,11 @@ class Safa:
     loves    = ["LLM agents", "RAG", "fine-tuning", "LLM guardrails"]
     fuel     = "coffee"          # TODO: confirm your real fuel
     status   = "Looking for a final-year internship (PFE) in AI / agentic systems"
-
+ 
     def debug(self):
         return "It's not a bug, it's an undocumented feature."
 ```
-
+ 
 -  Computer engineering student at **ENSIT**, pursuing a research master's in parallel, because one degree at a time felt too easy
 -  Focused on **AI, machine learning, deep learning and intelligent systems**: I build agents that (usually) do what I ask
 -  I put **guardrails** on LLMs so they behave better than my code on a Friday evening
